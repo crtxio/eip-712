@@ -44,7 +44,7 @@
     "prepare": "yarn run build"
   },
   "dependencies": {
-    "@findeth/abi": "^0.7.1",
+    "@findeth/abi": "^0.7.0",
     "@noble/hashes": "^1.0.0",
     "superstruct": "^0.15.3"
   },
